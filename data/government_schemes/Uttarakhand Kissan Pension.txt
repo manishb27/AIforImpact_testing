@@ -1,0 +1,51 @@
+﻿Kisan Pension Yojana
+The Kisan Pension Yojana, implemented by the Department of Social Welfare of Uttarakhand, provides financial assistance in the form of a monthly pension to eligible farmers. This scheme supports old-age farmers who own up to 2 hectares of land, cultivate their own land, and do not receive any other pension. It ensures financial security for the elderly farming community in Uttarakhand.
+
+Benefits
+    • Monthly pension of ₹1,200 (Rupees one thousand two hundred).
+
+Eligibility
+    1. The applicant must be a permanent resident of Uttarakhand.
+    2. The applicant's age should be more than 60 years.
+    3. The applicant should not receive pension benefits from any other sources.
+    4. The applicant should have a maximum of 2 hectares of land and do farming on it.
+
+Application Process
+Online:
+    1. Visit the Official Website of the Department of Social Welfare.
+    2. Click on "New Online Application" for registration.
+    3. Fill in the registration form and select the scheme.
+    4. Save the form; the login credentials will be sent via SMS.
+    5. Log in using the credentials and update the application form as required.
+    6. Upload necessary documents (PDF format, file size ≤ 1 MB).
+    7. Print the completed application form after submission.
+Track Application:
+    1. Visit the Official Website.
+    2. Click on "Check your pension status."
+    3. Enter the application number, mobile number, or Aadhaar number to track status.
+
+Documents Required
+    1. Land documents.
+    2. Aadhaar card.
+    3. Age certificate.
+    4. Affidavit on ₹10 stamp paper regarding land.
+    5. Address proof.
+    6. Photocopy of the first page of the bank account for bank details.
+    7. Passport-size color photo.
+    8. Caste certificate.
+    9. Voter ID card.
+
+FAQs
+    1. What is the main objective of the Kisan Pension Scheme?
+        ◦ To provide financial support to elderly farmers who cultivate their own land and do not receive pensions from other sources.
+    2. Who is eligible?
+        ◦ Farmers above 60 years of age with up to 2 hectares of land who cultivate their own land and are not receiving other pensions.
+    3. Which department implements the scheme?
+        ◦ Department of Social Welfare of Uttarakhand.
+    4. Can beneficiaries receive pensions from other sources?
+        ◦ No, they cannot.
+    5. What must farmers submit to avail of the scheme?
+        ◦ An affidavit on ₹10 stamp paper regarding their land.
+    6. What is the monthly pension amount?
+        ◦ ₹1,200 (Rupees one thousand two hundred).
+

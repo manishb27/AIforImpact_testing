@@ -1,0 +1,56 @@
+streamlit
+streamlit_authenticator
+groq
+fastapi
+uvicorn
+python-multipart
+firebase-admin
+flask
+python-dotenv
+pydantic
+python-dotenv
+
+
+
+# langchain google genai
+langchain-google-genai
+
+# langchain vertex ai
+langchain-google-vertexai
+
+# langchain communnity
+langchain-google-community
+langchain
+
+# directly from google cloud
+google-genai
+google-cloud-aiplatform
+
+# others
+python-dotenv
+
+# live 
+websockets==14.1
+asyncio==3.4.3
+
+
+llama-index-llms-vertex 
+google-cloud-aiplatform
+numexpr
+
+llama-index
+llama-index-embeddings-gemini
+llama-index-indices-managed-vertexai
+google-cloud-aiplatform==1.53.0
+
+
+google-cloud-aiplatform
+google-cloud-storage
+llama-index
+llama-index-embeddings-vertex
+llama-index-llms-vertex
+llama-index-vector_stores-vertexaivectorsearch
+langchain-community
+llama-index-llms-langchain
+llama-index-llms-fireworks
+langchainhub

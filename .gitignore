@@ -1,0 +1,9 @@
+.env
+key_firebase.json
+key.json
+/.venv/
+/old/
+/testingLive/
+/__pycache__/
+.DS_Store
+/KisaanCompanionProjNode
