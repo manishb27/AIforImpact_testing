@@ -1,0 +1,25 @@
+farmer: 
+- get_info_about_govt_schemes
+- general_inquiry
+register_product
+asking_about_loans
+
+
+researchers 
+
+- general_inquiry
+search_for_NGOs
+search_for_products
+
+
+NGOS
+
+general_inquiry
+search_for_researcher
+search_for_products
+search_for_farmers
+
+
+Individuals
+general_inquiry
+search_for_products

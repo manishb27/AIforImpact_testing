@@ -1,0 +1,12 @@
+1. What is best infra to use for a chatbot
+2. VM vs cloud run vs app engin 
+3. CICD automations 
+4. Vertex ai vs google ai studio
+5. langchain in dialogflow cx - integrations 
+6. whatsapp in dialogflow cx - integrations
+7. graph rag vertex ai - neo4j - 
+8. system architecture for the whole app 
+9. Depracation apps and what should we use for the best practice? 
+10. chatbot using langchain and google ai studio 
+11. interapp integtations - langchain on app engine and stuff like that
+
